@@ -4,7 +4,7 @@ name: deploy
 # main 브랜치에 push시 동작한다
 on:
   push:
-    branches: [master,main, develop]
+    branches: [main, develop]
     
 jobs:
   build:
