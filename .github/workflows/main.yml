@@ -1,5 +1,5 @@
 
-name: deploy
+name: main
 
 # main 브랜치에 push시 동작한다
 on:
