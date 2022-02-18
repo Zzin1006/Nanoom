@@ -36,7 +36,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: sunhoh/Nanoom
-          path: /frontend
+          path: ./frontend
 
       
       # backend 폴더에 frontend 프로젝트 설치
